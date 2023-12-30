@@ -15,6 +15,7 @@
 		7FBA7F572B3DCB00006D4229 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA7F562B3DCB00006D4229 /* FrameworkDetailView.swift */; };
 		7FBA7F5B2B3FFE3B006D4229 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA7F5A2B3FFE3B006D4229 /* AFButton.swift */; };
 		7FBA7F5D2B4000CB006D4229 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA7F5C2B4000CB006D4229 /* FrameworkGridViewModel.swift */; };
+		7FBA7F5F2B4007C9006D4229 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA7F5E2B4007C9006D4229 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7FBA7F562B3DCB00006D4229 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		7FBA7F5A2B3FFE3B006D4229 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		7FBA7F5C2B4000CB006D4229 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		7FBA7F5E2B4007C9006D4229 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +62,12 @@
 			isa = PBXGroup;
 			children = (
 				7FBA7F442B3DBD4E006D4229 /* apple_frameworksApp.swift */,
+				7FBA7F5C2B4000CB006D4229 /* FrameworkGridViewModel.swift */,
+				7FBA7F542B3DC17E006D4229 /* FrameworkGridView.swift */,
 				7FBA7F522B3DBD7D006D4229 /* Framework.swift */,
 				7FBA7F562B3DCB00006D4229 /* FrameworkDetailView.swift */,
-				7FBA7F5C2B4000CB006D4229 /* FrameworkGridViewModel.swift */,
 				7FBA7F5A2B3FFE3B006D4229 /* AFButton.swift */,
-				7FBA7F542B3DC17E006D4229 /* FrameworkGridView.swift */,
+				7FBA7F5E2B4007C9006D4229 /* SafariView.swift */,
 				7FBA7F482B3DBD4F006D4229 /* Assets.xcassets */,
 				7FBA7F4A2B3DBD4F006D4229 /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				7FBA7F5B2B3FFE3B006D4229 /* AFButton.swift in Sources */,
 				7FBA7F452B3DBD4E006D4229 /* apple_frameworksApp.swift in Sources */,
 				7FBA7F5D2B4000CB006D4229 /* FrameworkGridViewModel.swift in Sources */,
+				7FBA7F5F2B4007C9006D4229 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
